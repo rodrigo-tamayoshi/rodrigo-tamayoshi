@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+    background-color: #222;
+    font-family: arial;
+    font-size: 100%;
+  
+}
+
+.container{
+    margin: auto;
+    width:1200px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+
+nav {
+    width: 250px;
+    height: 900px;
+    background-color:  #c6e3fa;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+section{
+    width:900px;
+    height: 900px;
+    margin-left: 10px;
+    float: left;
+    background-color: #e3f1fc;
+    box-sizing: border-box;
+    padding-left: 10px;
+    
+
+}
+
+h1{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    color: white;
+    font-size: 30px;
+    
+}
+ul.menu{
+    list-style-type: none;
+    
+
+}
+
+ul.menu li{
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #28b6f9;
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 16px;
+
+ 
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #28b6f9;
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 0px;
+    cursor: pointer;
+    
+}
+.button {
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 4px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    border-radius:40px;
+  }
+
+.campo{
+   width: 400px;
+   height: 30px;
+   border: 1px solid #6d889d;
+   margin-top: 5px;
+   margin-bottom: 10px;
+   
+}
+
+article {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:#57a9d4;
+    margin-bottom: 5px;
+
+}
+
+footer{
+    background-color: #18a1d6;
+    text-align: center;
+    padding: 25px 0 ;
+    margin-top: 503px;
+    padding-left: 10px;
+    margin-left: -10px;
+
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    padding-left: 10px;
+}
