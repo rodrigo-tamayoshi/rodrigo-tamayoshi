@@ -1,1 +1,3 @@
-        Aplicação de web em php que funciona como um site em que pessoas cadastram informações profissionais sobre elas. No site é listado as informações dos usuários. Essa lista consulta uma tabela no banco de dados da aplicação.
+        Aplicação de web em php que funciona como um site em que pessoas cadastram informações profissionais sobre elas. No site é listado as informações dos usuários. Essa lista é gerada através de uma consulta ao banco de dados da aplicação. 
+
+        Na aplicação é possível usar comandos como: deletar um dado da lista e adicionar um dado. 
