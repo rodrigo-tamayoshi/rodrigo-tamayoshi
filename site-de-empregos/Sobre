@@ -1,1 +1,1 @@
-Esse projeto se trata de um trabalho escolar que seria uma aplicação web, que listaria informações de pessoas e suas carreiras. Essa lista seria gerada através de um banco de dados. 
+        Aplicação de web em php que funciona como um site em que pessoas cadastram informações profissionais sobre elas. No site é listado as informações dos usuários. Essa lista consulta uma tabela no banco de dados da aplicação.
